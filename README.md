@@ -5,4 +5,4 @@ I try to make a minimal esp32 dev board desing with auto programmer and usb inte
 ![PCB Build V3.5](https://github.com/SMDHuman/DIYesp32DevBoard/blob/main/Screenshot_1.png?raw=true)
 
 Update : 
- - You can remove r6 and r7 resistor and that connect wires together if you want to use IO0 button for input
+ - You may need to remove r6 and r7 resistor that connect those wires together if you want to use IO0 button for input
